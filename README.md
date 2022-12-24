@@ -7,4 +7,4 @@ Here is my codewars homepage: https://www.codewars.com/users/apollo18
 
 ## Lists
 ### 2022-12
-* [Simple Pig Latin](codewars/SimplePigLatin.js)
+* [Simple Pig Latin](codewars/SimplePigLatin.md)
