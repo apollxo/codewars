@@ -5,7 +5,7 @@ Some best practices for practice questions on [codewars](http://www.codewars.com
 
 Here is my codewars homepage: https://www.codewars.com/users/apollo18
 
-## Lists
+## List
 ### 2022-12
 * [Simple Pig Latin](codewars/SimplePigLatin.md)
 ### 2023-06
