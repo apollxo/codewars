@@ -1,11 +1,11 @@
 # [Replace With Alphabet Position]('https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript')
 
 ## Description:
-** Welcome.
+* Welcome.
 
 In this kata you are required to, given a string, replace every letter with its position in the alphabet.
 
-If anything in the text isn't a letter, ignore it and don't return it. **
+If anything in the text isn't a letter, ignore it and don't return it. *
 
 `"a" = 1`.`"b" = 2` etc.
 
@@ -37,7 +37,7 @@ function alphabetPosition(text) {
 }
 ```
 
-Here is similar answer to mine which earned many upovtes [link](https://www.codewars.com/kata/reviews/56002d1c656fe9438f00001b/groups/56237bd05cfa225ccf0000a6)
+Here is similar answer to mine which earned many upvotes [link](https://www.codewars.com/kata/reviews/56002d1c656fe9438f00001b/groups/56237bd05cfa225ccf0000a6)
 
 # One line answer [link](https://www.codewars.com/kata/reviews/56002d1c656fe9438f00001b/groups/5620329b94bece03de0000be)
 
