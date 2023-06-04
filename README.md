@@ -8,3 +8,5 @@ Here is my codewars homepage: https://www.codewars.com/users/apollo18
 ## Lists
 ### 2022-12
 * [Simple Pig Latin](codewars/SimplePigLatin.md)
+### 2023-06
+* [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript)
