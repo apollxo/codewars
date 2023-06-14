@@ -9,13 +9,11 @@ Modern Roman numerals are written by expressing each digit separately starting w
 
 ### Example: 
 
-```
-solution(1000); // should return 'M'
-```
+`solution(1000); // should return 'M'`
 
 ### Help:
 
-```
+`
 Symbol    Value
 I          1
 V          5
@@ -24,7 +22,7 @@ L          50
 C          100
 D          500
 M          1,000
-```
+`
 
 ______________________________________________________________________________
 
