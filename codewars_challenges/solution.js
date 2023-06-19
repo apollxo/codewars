@@ -1,32 +1,38 @@
-function roman_to_Int(str1) {
-	if(str1 == null) return -1;
-	var num = char_to_int(str1.charAt(0));
-	var pre, curr;
+function convertToRoman(num) {
+  if (num <= 0 || num >= 4000) {
+    return "Invalid number. Roman numerals range from 1 to 3999.";
+  }
 
-	for(var i = 1; i < str1.length; i++){
-		curr = char_to_int(str1.charAt(i));
-		pre = char_to_int(str1.charAt(i-1));
-	if(curr <= pre){
-		num += curr;
-	} else {
-		num = num - pre*2 + curr;
-		}
-	}
+  const romanNumerals = [
+    { value: 1000, symbol: "M" },
+    { value: 900, symbol: "CM" },
+    { value: 500, symbol: "D" },
+    { value: 400, symbol: "CD" },
+    { value: 100, symbol: "C" },
+    { value: 90, symbol: "XC" },
+    { value: 50, symbol: "L" },
+    { value: 40, symbol: "XL" },
+    { value: 10, symbol: "X" },
+    { value: 9, symbol: "IX" },
+    { value: 5, symbol: "V" },
+    { value: 4, symbol: "IV" },
+    { value: 1, symbol: "I" }
+  ];
+ // console.log(romanNumerals[1].value)
 
-		return num;
-	}
+  let result = "";
 
-function char_to_int(c){
-	switch (c){
-	case 'I': return 1;
-	case 'V': return 5;
-	case 'X': return 10;
-	case 'L': return 50;
-	case 'C': return 100;
-	case 'D': return 500;	
-	case 'M': return 1000;
-	default: return -1;
-	}
+  for (let i = 0; i < romanNumerals.length; i++) {
+    while (num >= romanNumerals[i].value) {
+      result += romanNumerals[i].symbol;
+      num -= romanNumerals[i].value;
+      console.log(result, ':' ,num)
+    }
+  }
+
+  return result;
 }
-console.log(roman_to_Int('XXVI'));
-console.log(roman_to_Int('CI'));
+
+// Example usage
+console.log(convertToRoman(39)); // Output: "CXXIII"
+//console.log(convertToRoman(3990)); // Output: "MMMCMXCIX"
