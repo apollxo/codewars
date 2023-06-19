@@ -10,3 +10,5 @@ Here is my codewars homepage: https://www.codewars.com/users/apollo18
 * [Simple Pig Latin](codewars/SimplePigLatin.md)
 ### 2023-06
 * [Replace With Alphabet Position](https://www.codewars.com/kata/546f922b54af40e1e90001da/train/javascript)
+### 2023-06
+* [Roman Numericals Decoder](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Roman_Numerals_Encoder.md)
