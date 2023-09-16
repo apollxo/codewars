@@ -1,6 +1,6 @@
 ## Codewars Practices
 Some best practices for practice questions on [codewars](http://www.codewars.com/) and try to update it constantly from 2022
-
+<img src='https://www.codewars.com/packs/assets/og-image.7f5134fb.png' alt='codewars.com' width='100%' height='auto'/>
 **Notes:** The best practices for every question I have passed all tests on codewars were sorted via votes count descending at the time I resolved it, so you maybe see different results now for the same question on codewars.
 
 Here is my codewars homepage: https://www.codewars.com/users/apollo18
