@@ -11,3 +11,5 @@ Here is my codewars homepage: https://www.codewars.com/users/apollo18
 ### 2023-06
 * [Replace With Alphabet Position](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Replace_with_Alphabet_position.md)
 * [Roman Numericals Encoder](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Roman_Numerals_Encoder.md)
+### 2023-10
+* [Make the Dead fish swim](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Make_the_Deadfish_Swim.md)
