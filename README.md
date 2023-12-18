@@ -15,3 +15,4 @@ Here is my codewars homepage: https://www.codewars.com/users/a.p.ollo
 * [Make the Dead fish swim](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Make_the_Deadfish_Swim.md)
 ### 2023-12
 * [Bit Counting](https://github.com/apollxo/codewars/blob/main/codewars_challenges/bitCounting.md)
+* [Weird String Case](https://github.com/apollxo/codewars/blob/main/codewars_challenges/weird_string.md)
