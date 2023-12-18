@@ -13,3 +13,5 @@ Here is my codewars homepage: https://www.codewars.com/users/apollo18
 * [Roman Numericals Encoder](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Roman_Numerals_Encoder.md)
 ### 2023-10
 * [Make the Dead fish swim](https://github.com/apollxo/codewars/blob/main/codewars_challenges/Make_the_Deadfish_Swim.md)
+### 2023-12
+* [Bit Counting](https://github.com/apollxo/codewars/blob/main/codewars_challenges/bitCounting.md)
