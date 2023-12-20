@@ -16,3 +16,5 @@ Here is my codewars homepage: https://www.codewars.com/users/a.p.ollo
 ### 2023-12
 * [Bit Counting](https://github.com/apollxo/codewars/blob/main/codewars_challenges/bitCounting.md)
 * [Weird String Case](https://github.com/apollxo/codewars/blob/main/codewars_challenges/weird_string.md)
+* [Are they the "same"?](https://github.com/apollxo/codewars/blob/main/codewars_challenges/are_they_same.md)
+
